@@ -1,4 +1,4 @@
-### Hello! I'm [Tejas Borde](https://tejasborde.me/)👋
+### Hello! I'm [Tejas Borde](https://tejasborde.github.io/)👋
 
 I'm a student, currently majoring in Computer Engineering. 
 
