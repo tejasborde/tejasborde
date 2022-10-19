@@ -23,8 +23,8 @@ I'm familiar with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasborde&layout=compact&theme=algolia)](https://www.linkedin.com/in/tejas-borde-17577a191/)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tejasborde&theme=onedark)](https://github.com/tejasborde/github-profile-trophy)
 
-Connect with me if you want to collaborate, or just hang out!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-borde-17577a191/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bordetejas26/)
